@@ -1,5 +1,6 @@
 .card {
   background-color: var(--secondary-color);
+  width: 1200px;
 }
 
 input[type="text"],
@@ -16,7 +17,7 @@ input[type="email"] {
   font-size: 13px;
   background-color: var(--primary-color);
   color: #fff;
-  width: 15em;
+  width: 12em;
 }
 
 .subs-text {
